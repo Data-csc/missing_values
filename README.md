@@ -19,3 +19,4 @@ Ways to handle missing values are:
 6. Using Algorithms Robust to Missing Values
 7. Miscellaneous ways
 
+Check out my blog here: https://eashank16.medium.com/handling-missing-values-data-science-d4202c7b953d
